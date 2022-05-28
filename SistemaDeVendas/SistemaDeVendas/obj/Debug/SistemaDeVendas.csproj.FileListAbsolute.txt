@@ -1,0 +1,11 @@
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\bin\Debug\SistemaDeVendas.exe.config
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\bin\Debug\SistemaDeVendas.exe
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\bin\Debug\SistemaDeVendas.pdb
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.AssemblyReference.cache
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.frmAdminDashboard.resources
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.Properties.Resources.resources
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.GenerateResource.cache
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.exe
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.pdb
