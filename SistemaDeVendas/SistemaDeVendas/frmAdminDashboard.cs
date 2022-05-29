@@ -69,10 +69,14 @@ namespace SistemaDeVendas
 
         private void lblLoggedInUser_Click(object sender, EventArgs e)
         {
-
         }
 
         private void label2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }

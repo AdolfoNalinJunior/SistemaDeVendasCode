@@ -37,14 +37,13 @@
             this.produtosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fornecedoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.usuárioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.caixaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.estoqueToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.financeiroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.protudoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.calculadoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fecharToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.estoqueToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.controleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.financeiroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.investimentoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gastosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quandidadeVendiadaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -52,7 +51,8 @@
             this.semanaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.semanaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.diaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.usuárioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.protudoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.calculadoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pnlFooter.SuspendLayout();
             this.MenuPrincipal.SuspendLayout();
             this.SuspendLayout();
@@ -120,26 +120,32 @@
             // funcionárioToolStripMenuItem
             // 
             this.funcionárioToolStripMenuItem.Name = "funcionárioToolStripMenuItem";
-            this.funcionárioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.funcionárioToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.funcionárioToolStripMenuItem.Text = "Funcionário";
             // 
             // produtosToolStripMenuItem
             // 
             this.produtosToolStripMenuItem.Name = "produtosToolStripMenuItem";
-            this.produtosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.produtosToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.produtosToolStripMenuItem.Text = "Produtos";
             // 
             // fornecedoresToolStripMenuItem
             // 
             this.fornecedoresToolStripMenuItem.Name = "fornecedoresToolStripMenuItem";
-            this.fornecedoresToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.fornecedoresToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.fornecedoresToolStripMenuItem.Text = "Fornecedores";
             // 
             // clientesToolStripMenuItem
             // 
             this.clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
-            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.clientesToolStripMenuItem.Text = "Clientes";
+            // 
+            // usuárioToolStripMenuItem
+            // 
+            this.usuárioToolStripMenuItem.Name = "usuárioToolStripMenuItem";
+            this.usuárioToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
+            this.usuárioToolStripMenuItem.Text = "Usuário";
             // 
             // caixaToolStripMenuItem
             // 
@@ -149,36 +155,6 @@
             this.caixaToolStripMenuItem.Name = "caixaToolStripMenuItem";
             this.caixaToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
             this.caixaToolStripMenuItem.Text = "Caixa";
-            // 
-            // estoqueToolStripMenuItem
-            // 
-            this.estoqueToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.controleToolStripMenuItem});
-            this.estoqueToolStripMenuItem.Name = "estoqueToolStripMenuItem";
-            this.estoqueToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
-            this.estoqueToolStripMenuItem.Text = "Estoque";
-            // 
-            // financeiroToolStripMenuItem
-            // 
-            this.financeiroToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.investimentoToolStripMenuItem,
-            this.gastosToolStripMenuItem,
-            this.quandidadeVendiadaToolStripMenuItem});
-            this.financeiroToolStripMenuItem.Name = "financeiroToolStripMenuItem";
-            this.financeiroToolStripMenuItem.Size = new System.Drawing.Size(74, 20);
-            this.financeiroToolStripMenuItem.Text = "Financeiro";
-            // 
-            // protudoToolStripMenuItem
-            // 
-            this.protudoToolStripMenuItem.Name = "protudoToolStripMenuItem";
-            this.protudoToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
-            this.protudoToolStripMenuItem.Text = "Protudo";
-            // 
-            // calculadoraToolStripMenuItem
-            // 
-            this.calculadoraToolStripMenuItem.Name = "calculadoraToolStripMenuItem";
-            this.calculadoraToolStripMenuItem.Size = new System.Drawing.Size(85, 20);
-            this.calculadoraToolStripMenuItem.Text = "Calculadora ";
             // 
             // abrirToolStripMenuItem
             // 
@@ -192,11 +168,29 @@
             this.fecharToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.fecharToolStripMenuItem.Text = "Fechar";
             // 
+            // estoqueToolStripMenuItem
+            // 
+            this.estoqueToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.controleToolStripMenuItem});
+            this.estoqueToolStripMenuItem.Name = "estoqueToolStripMenuItem";
+            this.estoqueToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
+            this.estoqueToolStripMenuItem.Text = "Estoque";
+            // 
             // controleToolStripMenuItem
             // 
             this.controleToolStripMenuItem.Name = "controleToolStripMenuItem";
-            this.controleToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.controleToolStripMenuItem.Size = new System.Drawing.Size(120, 22);
             this.controleToolStripMenuItem.Text = "Controle";
+            // 
+            // financeiroToolStripMenuItem
+            // 
+            this.financeiroToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.investimentoToolStripMenuItem,
+            this.gastosToolStripMenuItem,
+            this.quandidadeVendiadaToolStripMenuItem});
+            this.financeiroToolStripMenuItem.Name = "financeiroToolStripMenuItem";
+            this.financeiroToolStripMenuItem.Size = new System.Drawing.Size(74, 20);
+            this.financeiroToolStripMenuItem.Text = "Financeiro";
             // 
             // investimentoToolStripMenuItem
             // 
@@ -224,34 +218,40 @@
             // mêsToolStripMenuItem
             // 
             this.mêsToolStripMenuItem.Name = "mêsToolStripMenuItem";
-            this.mêsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.mêsToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.mêsToolStripMenuItem.Text = "Ano";
             this.mêsToolStripMenuItem.Click += new System.EventHandler(this.mêsToolStripMenuItem_Click);
             // 
             // semanaToolStripMenuItem
             // 
             this.semanaToolStripMenuItem.Name = "semanaToolStripMenuItem";
-            this.semanaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.semanaToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.semanaToolStripMenuItem.Text = "Mes";
             this.semanaToolStripMenuItem.Click += new System.EventHandler(this.semanaToolStripMenuItem_Click);
             // 
             // semanaToolStripMenuItem1
             // 
             this.semanaToolStripMenuItem1.Name = "semanaToolStripMenuItem1";
-            this.semanaToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.semanaToolStripMenuItem1.Size = new System.Drawing.Size(116, 22);
             this.semanaToolStripMenuItem1.Text = "Semana";
             // 
             // diaToolStripMenuItem
             // 
             this.diaToolStripMenuItem.Name = "diaToolStripMenuItem";
-            this.diaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.diaToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.diaToolStripMenuItem.Text = "Dia";
             // 
-            // usuárioToolStripMenuItem
+            // protudoToolStripMenuItem
             // 
-            this.usuárioToolStripMenuItem.Name = "usuárioToolStripMenuItem";
-            this.usuárioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.usuárioToolStripMenuItem.Text = "Usuário";
+            this.protudoToolStripMenuItem.Name = "protudoToolStripMenuItem";
+            this.protudoToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
+            this.protudoToolStripMenuItem.Text = "Protudo";
+            // 
+            // calculadoraToolStripMenuItem
+            // 
+            this.calculadoraToolStripMenuItem.Name = "calculadoraToolStripMenuItem";
+            this.calculadoraToolStripMenuItem.Size = new System.Drawing.Size(85, 20);
+            this.calculadoraToolStripMenuItem.Text = "Calculadora ";
             // 
             // frmAdminDashboard
             // 

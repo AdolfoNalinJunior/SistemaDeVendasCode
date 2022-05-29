@@ -9,3 +9,4 @@ C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Deb
 C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.CoreCompileInputs.cache
 C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.exe
 C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.pdb
+C:\Users\Adolfo\Desktop\ProjetoSistemaLu\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.frmUserDeshboard.resources
